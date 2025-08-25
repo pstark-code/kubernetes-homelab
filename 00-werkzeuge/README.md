@@ -14,7 +14,7 @@ Das Basiswerkzeug für Kubernetes.
 - Dokumentation: https://kubernetes.io/docs/reference/kubectl/
 - `winget install --id=Kubernetes.kubectl  -e`
 - `brew install kubernetes-cli`
-
+<!--
 ## kind
 
 Schnell lokal einen cluster erstellen. 
@@ -30,7 +30,7 @@ Schnell lokal einen cluster erstellen.
 - Doku: https://helm.sh/docs/intro/quickstart/
 - `winget install --id=Helm.Helm  -e`
 - `brew install helm`
-
+-->
 ## k9s
 
 Eine mächtige Konsolen-Software um einen Kubernete Cluster zu managen. Er hat leider eine relativ steile Lernkurve.
